@@ -1,4 +1,4 @@
-# 
+# Inteligente AI Expense Tracker with NLP scripts. Con extracción de características y aprendizaje por refuerzo — optimizado para el máximo rendimiento.
 
 
 
